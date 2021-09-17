@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Gitbook of CCRM
+longtitle:        Computational Communication Research Methods
+author:           Cheng-Jun Wang
+email:            wangchj04@126.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://socrateslab.github.io/ccrm/'
+baseurl:          '/ccrm'
 rss:              RSS
 
 toc:
