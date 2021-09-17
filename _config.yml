@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://socrateslab.github.io/ccrm/'
-baseurl:          '/ccrm/'
+url:              'https://socrateslab.github.io/methods/'
+baseurl:          '/methods/'
 rss:              RSS
 
 toc:
