@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://socrateslab.github.io/methods/'
-baseurl:          '/methods/'
+url:              'https://socrateslab.github.io/workshop/'
+baseurl:          '/workshop/'
 rss:              RSS
 
 toc:
