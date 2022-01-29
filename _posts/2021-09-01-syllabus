@@ -1,0 +1,105 @@
+---
+title: 2021年的课程大纲
+author: Cheng-Jun Wang
+date: 2021-09-01
+category: Jekyll
+layout: post
+---
+
+## 时间安排
+
+### 1. 第一讲 2021-09-28 课程简介
+- 破冰
+- 教学立方
+- 微信群
+
+### 2. 第二讲 2021-10-12 计算传播学简介
+- 讲解：计算中心的逻辑、定义、案例  
+
+### 3. 第三讲 2021-10-19 大数据（上）
+讲到”无代表性“
+- 讨论： https://github.com/socrateslab/methods/discussions/10
+- 讲解：[大数据](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/02-01-observing-behaviors.ipynb)
+- 阅读：《Bit by Bit: Social Research in the Digital Age》[第二章](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/)
+
+### 4. 第四讲 2021-10-26 大数据（下）
+开始线下课程
+- 讲解：[大数据](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/02-01-observing-behaviors.ipynb)
+- 阅读：《Bit by Bit: Social Research in the Digital Age》[第二章](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/)
+- 作业：1. A4纸不超过一页；2. 介绍自己的研究问题；3. 与已有研究的关系和差异；4. 自己的核心观点。
+
+### 5. 第五讲 2021-11-02 讨论：研究项目
+
+- 讨论：介绍自己的研究项目 (进度条3/7)
+- https://github.com/socrateslab/methods/discussions/11
+
+### 6. 第六讲 2021-11-09 讨论：研究项目
+
+- 讨论：介绍自己的研究项目 (进度条7/7)
+- https://github.com/socrateslab/methods/discussions/11
+
+### 7. 第七讲 2021-11-16 写作是门手艺
+
+- 讲解《写作是门手艺》
+   - [Jupyter Notebok](https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true)
+   - [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/)
+
+
+###  8. 第八讲 2021-11-23 The Power of Writing
+
+- 讲解：[写作的力量：十步写作法](https://nbviewer.org/format/slides/github/socrateslab/workshop/blob/main/notebook/Essay%20Writing%20Guide.ipynb?flush_cache=true#/)
+- 阅读：
+   - [播客：李连江谈在学术界谋生存](https://www.douban.com/group/topic/253462298/#76483528Q7h8sH)
+   - [Jordan Peterson on Writing](https://www.douban.com/group/topic/253367215/#76591878Q7h8sH)
+
+###  9. 第九讲 2021-11-30 数字媒体时代的问卷调查
+
+- 讲解：[Asking Questions](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/03-01-asking-questions.ipynb)
+- 阅读: https://www.bitbybitbook.com/en/1st-ed/asking-questions/
+
+###  10. 第十讲 2021-12-07 数字媒体时代的实验
+- 讲解：[Doing Experiments](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/03-02-experiment.ipynb)
+- 阅读: https://www.bitbybitbook.com/en/1st-ed/running-experiments/
+
+###  11. 第十一讲 2021-12-14  行业诀窍
+
+- 讲解：Tricks of Trade 行业诀窍
+   - Notebook https://nbviewer.jupyter.org/github/SocratesAcademy/tricks/blob/main/tricks.ipynb
+   - Slides https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/tricks.ipynb#/
+
+###  12. 第十二讲  2021-12-21 新咖啡聊叙事经济学
+- 讲解：《叙事经济学》
+- 介绍：正在进展中的研究案例
+- 讲解：https://github.com/socrateslab/workshop/discussions/13
+
+## 授课内容
+
+### Bit by Bit: Social Research in the Digital Age
+
+- **bitbybitbook** https://www.bitbybitbook.com/en/1st-ed/asking-questions/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/02-01-observing-behaviors.ipynb
+- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/03-01-asking-questions.ipynb
+- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/03-02-causality.ipynb
+- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/css/blob/master/notebook/03-02-experiment.ipynb
+
+### 写作是门手艺
+
+- Notebook https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true
+- Slides https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/
+
+### The Power of Writing: Ten Steps of Essay Writing BY Jordan B Peterson
+
+- Original PDF: https://github.com/socrateslab/workshop/files/7575610/Essay.Writing.Guide.pdf
+- Notebook https://github.com/socrateslab/workshop/blob/main/notebook/Essay%20Writing%20Guide.ipynb
+- Slides: https://nbviewer.org/format/slides/github/socrateslab/workshop/blob/main/notebook/Essay%20Writing%20Guide.ipynb?flush_cache=true#/
+
+
+### 行业诀窍 Tricks of the Trade 
+
+- Notebook https://nbviewer.jupyter.org/github/SocratesAcademy/tricks/blob/main/tricks.ipynb
+- Slides https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/tricks.ipynb#/
+
+### 学术界谋生存
+
+- 李连江谈在学术界谋生存 https://anchor.fm/randomwalktheory/episodes/Ep17-e196ca9
+- 参考书 《不发表 就出局》、《在学术界谋生存》、《戏说统计 : 文科生的量化方法》、《戏说统计续编：文科生的量化操作指南》、《哲学与师道》
